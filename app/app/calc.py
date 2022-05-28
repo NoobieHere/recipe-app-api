@@ -1,13 +1,13 @@
 """
-Calculator Functions
+Calculator functions
 """
 
 
-def add(a, b):
-    """ Add a and b return result. """
-    return a + b
+def add(x, y):
+    """Add x and y and return result."""
+    return x + y
 
 
 def subtract(a, b):
-    """ Subtract a from b return result. """
-    return b - a
+    """Subtract x from y and return result."""
+    return y - x
